@@ -12,6 +12,6 @@ underlying the simulations' data generating process were altered to make
 them more reflective of real-world conditions in observational research.
 
 
-Jason Miller
+Ason Peikoff
 
 Submitted to Econometrica on Dec 12, 2020
